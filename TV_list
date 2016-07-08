@@ -133,14 +133,7 @@ http://80.80.160.168/live/8/live.m3u8
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
 #EXTINF:0,Discovery SCI. (720p)
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1,? Filmbox Extra HD
-http://lag3.tv-mobile.org/prga.m3u8
-#EXTINF:-1,? Filmbox Plus HD
-http://lag3.tv-mobile.org/prgb.m3u8
-#EXTINF:-1,? HBO
-http://lag2.tv-mobile.org/prgp.m3u8
-#EXTINF:-1,? HBO Comedy
-http://lag2.tv-mobile.org/prga.m3u8
+
 #EXTINF:0,LTV1 Latvia (Ar programmu)
 http://dvb.gpsystems.lv:4242/bynumber/1?by_HasBahCa
 #EXTINF:0,LTV7 Latvia (Ar programmu)
