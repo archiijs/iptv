@@ -138,27 +138,6 @@ http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
 http://80.80.160.168/live/9/live.m3u8
 
 
-#EXTINF:0,LV-LTV1 (576p) (Ar programmu?)
-http://dvb.gpsystems.lv:4242/bynumber/1?by_HasBahCa
-#EXTINF:0,LV-LTV1 (576p) (Ar programmu?)
-http://hop.02.lv/1Dh
-#EXTINF:0,LV-LTV1 (576p) (Ar programmu un valodas celiņiem)
-http://94.101.225.32:4242/bynumber/1?/
-#EXTINF:0,LV-LTV1 (576p) (Ar programmu un valodas celiņiem)
-http://94.101.225.32:4242/bysid/5110?/
-#EXTINF:0,LTV7 Latvia (Ar programmu)
-http://dvb.gpsystems.lv:4242/bynumber/3?by_HasBahCa
-#EXTINF:-1,Adazi (576p) (Ar programmu?)
-http://dvb.gpsystems.lv:4242/bynumber/1
-#EXTINF:-1,ReTV (576p?) (Ar programmu?)
-http://dvb.gpsystems.lv:4242/bynumber/2
-#EXTINF:-1,RIGA24 (576p?) (Ar programmu)
-http://94.101.225.32:4242/bynumber/4?/
-#EXTINF:-1,?
-http://dvb.gpsystems.lv:4242/bynumber/3
-
-
-
 #EXTINF:-1,[COLOR red] [B]Adult[/B][/COLOR]
 http://0.1.5.0:1224
 
