@@ -33,27 +33,29 @@ http://0.1.5.0:1224
 http://tiesraides.pw:8080/hls/OiuefmLbjCPDKWiw9Vicdw/1467915713/muzikas-video-kanals.m3u8
 #EXTINF:0,1st Baltic Music
 https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
-#EXTINF:0,MTV Rus
+#EXTINF:0,MTV Rus (578p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
-#EXTINF:0,MTV Dance
+#EXTINF:0,MTV Live (1080p)
+http://62.106.105.209:4022/udp/232.0.2.51:1234
+#EXTINF:0,MTV Dance (576p)
 http://fr.cdn.edem.tv/iptv/4MGFKP9WS85VM3/558/index.m3u8
-#EXTINF:0,MTV Hits
+#EXTINF:0,MTV Hits (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/153/index.m3u8
 #EXTINF:0,Muz TV
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/116/index.m3u8
-#EXTINF:0,Vevo 1
+#EXTINF:0,Vevo 1 (720p)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:0,Vevo 2
+#EXTINF:0,Vevo 2 (720p)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:0,Vevo 3
+#EXTINF:0,Vevo 3 (720p)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:0,SLAM!
 http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
 #EXTINF:0,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:-1, HEART TV
+#EXTINF:-1, HEART TV (450p)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Kiss Tv Music
+#EXTINF:0,Kiss Tv Music (380p)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1, NRJ TV
 rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
@@ -73,7 +75,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0,NR1 HD
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
-#EXTINF:-1,MIAMI TV
+#EXTINF:-1,MIAMI TV (720p)
 mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
 #EXTINF:-1,Music Box
 http://212.26.132.86/hls/mb_ua.m3u8
@@ -89,12 +91,22 @@ http://www.djing.com/tv/d-05.m3u8
 http://www.djing.com/tv/u-05.m3u8
 #EXTINF:0,Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1,Virgin TV
+#EXTINF:-1,Virgin TV (290p)
 rtmp://fms.105.net:1935/live/virgin2
-#EXTINF:0, ELECTROSOUND TV
-rtmp://www.electrosound.tv:1935/public/stream - See more at: http://www.iptvsharing.com/2015/11/iptv-playlist-music-links-m3u8-and-rtmp.html#sthash.hGzDF2pP.dpuf
+#EXTINF:0, ELECTROSOUND TV (720p)
+http://www.electrosound.tv:1935/public/stream/chunklist.m3u8
 #EXTINF:-1,RTL 102.5 TV
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+#EXTINF:-1,Dot Dance (720p)
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
+#EXTINF:-1,For Music (480p)
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
+#EXTINF:-1,Mad TV (480p)
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1,Mad TV (578p)
+http://151.249.207.217:4022/udp/224.200.246.47:3527
+#EXTINF:-1,МУЗ (720p)
+http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/116/inde..
 
 
 #EXTINF:-1,[COLOR yellow] [B]Zinas[/B][/COLOR]
