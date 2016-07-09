@@ -130,12 +130,8 @@ http://80.80.160.168/live/3/live.m3u8
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:0,Discovery ID. (480p)
 http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,Discovery Ch. (720p)
-http://80.80.160.168/live/8/live.m3u8
 #EXTINF:0,Discovery Rus (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
-#EXTINF:0,Discovery SCI. (720p)
-http://80.80.160.168/live/9/live.m3u8
 
 
 #EXTINF:-1,[COLOR red] [B]Adult[/B][/COLOR]
