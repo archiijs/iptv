@@ -29,8 +29,6 @@ http://0.1.5.0:1224
 http://31.28.62.166:4022/udp/232.0.1.26:1234
 #EXTINF:0,1st Baltic Music (576p)
 https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
-#EXTINF:0,MTV UK (440p)
-http://live.dianshibo.com/_ds/live.m3u8?id=mtv-uk&auth=cb11230c8976b6ab76b37221a1ae7c560340fa00e97b65a52c48c6d10378c3810e2291ee6980e44fd6791cc513e75840
 #EXTINF:0,MTV Rus (578p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
 #EXTINF:0,MTV Live (1080p)
@@ -142,7 +140,3 @@ http://0.1.5.0:1224
 http://37.195.247.86:81/udp/239.1.6.32:1234
 #EXTINF:-1,Hustler
 http://88.198.105.90:8000/live/exabytetv/2oVe2obCrd/123.m3u8
-#EXTINF:-1,BRAZZERS
-http://5.189.153.252:7500/live/rokas/rokas/24.ts
-#EXTINF:-1,Models In Motion
-http://live-1124.la2.edge.filmon.com/live/3152.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe2a8a194eecd1bc1f8f6e8731b94e109c8869eb250786f3fa8740a1437c6896bd3efd14b77c667bbb4db3385c4058cb2b43c4f9f5b1349cb3e71f79d0abe43d65b85ebbfce243676a7261f3cd9343a44146034ed69b9428160cd2cf00df2162aa3a4a893853c554a8423e267aea1e56bec2c6408f344b0967899dc5e27c7c1d780e019177925ca466ec7544620531fcd9
