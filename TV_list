@@ -154,7 +154,7 @@ http://dvb.gpsystems.lv:4242/bynumber/1
 http://dvb.gpsystems.lv:4242/bynumber/2
 #EXTINF:-1,RIGA24 (576p?) (Ar programmu)
 http://94.101.225.32:4242/bynumber/4?/
-#EXTINF:-1,?
+#EXTINF:-1,LTV7
 http://dvb.gpsystems.lv:4242/bynumber/3
 
 
