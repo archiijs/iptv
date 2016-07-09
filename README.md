@@ -1,1 +1,1 @@
-Mazs IPTV saraksts personīgai lietošanai
+Mazs IPTV saraksts personīgai lietošanai. Paredzēts izmantot ar Kodi un VLC.
