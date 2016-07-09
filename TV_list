@@ -29,8 +29,6 @@ http://0.1.5.0:1224
 http://31.28.62.166:4022/udp/232.0.1.26:1234
 #EXTINF:0,1st Baltic Music (576p)
 https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
-#EXTINF:0,MTV UK (440p)
-http://live.dianshibo.com/_ds/live.m3u8?id=mtv-uk&auth=cb11230c8976b6ab76b37221a1ae7c560340fa00e97b65a52c48c6d10378c3810e2291ee6980e44fd6791cc513e75840
 #EXTINF:0,MTV Rus (578p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
 #EXTINF:0,MTV Live (1080p)
@@ -128,10 +126,6 @@ http://80.80.160.168/live/1/live.m3u8
 http://80.80.160.168/live/3/live.m3u8
 #EXTINF:0,SHO HD (720p)
 http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0,Discovery ID. (480p)
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,Discovery Ch. (720p)
-http://80.80.160.168/live/8/live.m3u8
 #EXTINF:0,Discovery Rus (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
 #EXTINF:0,Discovery SCI. (720p)
@@ -166,9 +160,6 @@ http://0.1.5.0:1224
 #EXTINF:0,Русская ночь
 http://37.195.247.86:81/udp/239.1.6.32:1234
 #EXTINF:-1,Hustler
-http://88.198.105.90:8000/live/exabytetv/2oVe2obCrd/123.m3u8
-#EXTINF:-1,BRAZZERS
-http://5.189.153.252:7500/live/rokas/rokas/24.ts
 
 
 #EXTINF:0, tvg-id="6601" tvg-logo="Logo N/A" tvg-name="Rai 1"  group-title="---Free To Air---",Rai 1
