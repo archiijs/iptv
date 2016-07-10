@@ -1,5 +1,0 @@
- #EXTM3U tvg-shift=3
-    #EXTINF:-1 tvg-id="id1" tvg-name="Channel_1" tvg-logo="logo1" group-title="Group 1",Channel 1
-    http://STREAMURL
-    #EXTINF:-1 tvg-id="id2" tvg-name="Channel_2" tvg-logo="logo2" group-title="Group 2",Channel 2
-    udp://STREAMURL
