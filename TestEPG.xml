@@ -6,12 +6,10 @@
       <channel id="id2">
           <display-name lang="en">Channel 2</display-name>
       </channel>
-    ...
       <programme start="20130215080000 +0100" stop="20130215081500 +0100" channel="id1">
           <title lang="en">News</title>
       </programme>
       <programme start="20130215080500 +0100" stop="20130215083500 +0100" channel="id2">
           <title lang="en">Movie</title>
       </programme>
-    ...
     </tv>
