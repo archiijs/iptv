@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten" site="lattelecom.lv">
   <channels>
-    <channel update="i" site="lattelecom.lv" site_id="/lv/kanali/interaktivie/ltv1" xmltv_id="LTV1 Latvia (360p)">LTV1 Latvia (360p)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="/lv/kanali/interaktivie/ltv1" xmltv_id="LTV1">LTV1</channel>
+    <channel id="I10436.labs.zap2it.com">
     <channel update="i" site="lattelecom.lv" site_id="/lv/kanali/interaktivie/ltv7" xmltv_id="LTV7">LTV7</channel>
     <channel update="i" site="lattelecom.lv" site_id="/lv/kanali/interaktivie/tv3" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="lattelecom.lv" site_id="/lv/kanali/interaktivie/lnt" xmltv_id="LNT">LNT</channel>
