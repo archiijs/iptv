@@ -4,7 +4,7 @@
 #EXTINF:-1,[COLOR yellow] [B] Latvijas kanali [/B][/COLOR]
 http://0.1.5.0:1224
 
-#EXTINF:0, tvg-id="LTV1" LTV1 Latvia (360p)
+#EXTINF:0, tvg-id="LTV1" tvg-name="LTV1 Latvia (360p)"
 http://streamltv.cloudy.services/ltv/_definst_/LTV02.smil/chunklist_b1197800.m3u8
 #EXTINF:0,TV3 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.stream/chunklist.m3u8
