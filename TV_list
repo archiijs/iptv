@@ -9,7 +9,7 @@ http://....................
 
 #EXTINF:0, tvg-id="LTV1" tvg-logo="Logo N/A" tvg-name="LTV1" group-title="Latvijas kanāli",LTV1
 http://streamltv.cloudy.services/ltv/_definst_/LTV02.smil/chunklist_b1197800.m3u8
-#EXTINF:0, tvg-id="TV3" tvg-logo="Logo N/A" tvg-name="LTV1TV3 Latvia (576p)" group-title="Latvijas kanāli",LTV1TV3 Latvia (576p)
+#EXTINF:0, tvg-id="TV3" tvg-logo="Logo N/A" tvg-name="TV3 Latvia (576p)" group-title="Latvijas kanāli",LTV1TV3 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.stream/chunklist.m3u8
 #EXTINF:0, tvg-id="TV6" tvg-logo="Logo N/A" tvg-name="TV6 Latvia (576p)" group-title="Latvijas kanāli",TV6 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream4_medium.stream/playlist.m3u8
