@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="1">
+  <channel id="LTV1">
     <display-name lang="lv">LTV1</display-name>
     <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-09-19/3f73_ltv_1.png" />
     <url>http://www.lattelecom.lv</url>
