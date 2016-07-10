@@ -7,7 +7,7 @@ http://0.1.5.0:1224
 #EXTINF:-1 tvg-name="BBC World" tvg-logo="BBC World.png" group-title="Working Channels",[COLOR blue]BBC World[/COLOR]
 http://....................
 
-#EXTINF:0, tvg-id="1" tvg-logo="Logo N/A" tvg-name="LTV1" group-title="Latvijas kanāli",LTV1
+#EXTINF:0, tvg-id="LTV1" tvg-logo="Logo N/A" tvg-name="LTV1" group-title="Latvijas kanāli",LTV1
 http://streamltv.cloudy.services/ltv/_definst_/LTV02.smil/chunklist_b1197800.m3u8
 #EXTINF:0,TV3 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.stream/chunklist.m3u8
