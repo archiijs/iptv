@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LTV1">
+    <display-name lang="lv">LTV1</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-09-19/3f73_ltv_1.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="LTV7">
+    <display-name lang="lv">LTV7</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-09-19/c217_ltv_7.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="lv">TV3</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-12-05/de09_tv3_130x70pix.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="LNT">
+    <display-name lang="lv">LNT</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2015-10-26/45bb_lnt130x70.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="TV5">
+    <display-name lang="lv">TV5</display-name>
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="TV6">
+    <display-name lang="lv">TV6</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-12-05/4d2e_tv6_130x70pix.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="Kanāls 2">
+    <display-name lang="lv">Kanāls 2</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-12-05/9d58_kanals_2_130x70pix.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <channel id="Pirmais Baltijas Kanāls">
+    <display-name lang="lv">Pirmais Baltijas Kanāls</display-name>
+    <icon src="http://tv.lattelecom.lv/media/imse/144x106s/channels/2013-09-11/af7e_pbk.png" />
+    <url>http://www.lattelecom.lv</url>
+  </channel>
+  <programme start="20160710021000 +0300" stop="20160710041500 +0300" channel="LTV1">
+    <title lang="lv">Latvijas IV Olimpiādes atklāšanas ceremonija. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710041500 +0300" stop="20160710044500 +0300" channel="LTV1">
+    <title lang="lv">LTV - 60. Zelta arhīvs. Liepājas dzintars - 98. Time after...</title>
+  </programme>
+  <programme start="20160710044500 +0300" stop="20160710050500 +0300" channel="LTV1">
+    <title lang="lv">Vai Rīga jau gatava? (atkārtojums)</title>
+  </programme>
+  <programme start="20160710050500 +0300" stop="20160710060000 +0300" channel="LTV1">
+    <title lang="lv">Kino diena. Kinodokumentālisti Ivars un Maija Selecki....</title>
+  </programme>
+  <programme start="20160710060000 +0300" stop="20160710060200 +0300" channel="LTV1">
+    <title lang="lv">Latvijas Republikas valsts himna.</title>
+  </programme>
+  <programme start="20160710060200 +0300" stop="20160710070500 +0300" channel="LTV1">
+    <title lang="lv">LV jaunatklāšanas raidījums "TE!". (atkārtojums)</title>
+  </programme>
+  <programme start="20160710070500 +0300" stop="20160710073500 +0300" channel="LTV1">
+    <title lang="lv">Pelēns Tips. Animācijas seriāls. 10., 11., 12. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710073500 +0300" stop="20160710080000 +0300" channel="LTV1">
+    <title lang="lv">Auniņa Timija laiks. Animācijas seriāls. 43., 44. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710080000 +0300" stop="20160710083000 +0300" channel="LTV1">
+    <title lang="lv">Lesija. Animācijas seriāls. 22. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710083000 +0300" stop="20160710090000 +0300" channel="LTV1">
+    <title lang="lv">Jakari 3. Animācijas seriāls. 15., 16. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710090000 +0300" stop="20160710093000 +0300" channel="LTV1">
+    <title lang="lv">Kas te? Es te! (atkārtojums)</title>
+  </programme>
+  <programme start="20160710093000 +0300" stop="20160710100000 +0300" channel="LTV1">
+    <title lang="lv">Zorro hronikas. Animācijas seriāls. 14. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710100000 +0300" stop="20160710103000 +0300" channel="LTV1">
+    <title lang="lv">Tatonkas stāsti. Animācijas seriāls. 15., 16. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710103000 +0300" stop="20160710110500 +0300" channel="LTV1">
+    <title lang="lv">Izgaršot Brazīliju. Dokumentāls seriāls. 11. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle, ar subtitriem.(n)</desc>
+  </programme>
+  <programme start="20160710110500 +0300" stop="20160710120000 +0300" channel="LTV1">
+    <title lang="lv">Āzija no putna lidojuma. Dokumentāla daudzsēriju filma. 1....</title>
+    <desc lang="lv">oriģinālvalodas izvēle, ar subtitriem.(n)</desc>
+  </programme>
+  <programme start="20160710120000 +0300" stop="20160710130000 +0300" channel="LTV1">
+    <title lang="lv">Dievkalpojums. Pārraide no Rīgas Kristus Piedzimšanas...</title>
+  </programme>
+  <programme start="20160710130000 +0300" stop="20160710133000 +0300" channel="LTV1">
+    <title lang="lv">Saknes debesīs. (atkārtojums)</title>
+    <desc lang="lv">ar subtitriem.(n)</desc>
+  </programme>
+  <programme start="20160710133000 +0300" stop="20160710135000 +0300" channel="LTV1">
+    <title lang="lv">Aculiecinieks. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710135000 +0300" stop="20160710150000 +0300" channel="LTV1">
+    <title lang="lv">Smalkais stils. Situāciju komēdija. 13., 14. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710150000 +0300" stop="20160710153500 +0300" channel="LTV1">
+    <title lang="lv">Mans zaļais dārzs. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710153500 +0300" stop="20160710170500 +0300" channel="LTV1">
+    <title lang="lv">Mana dziesma. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710170500 +0300" stop="20160710180000 +0300" channel="LTV1">
+    <title lang="lv">Agata Reizina. Detektīvseriāls. 5. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710180000 +0300" stop="20160710181200 +0300" channel="LTV1">
+    <title lang="lv">Dienas ziņas (Svētdiena).</title>
+    <desc lang="lv">ar surdotulkojumu.(n)</desc>
+  </programme>
+  <programme start="20160710181200 +0300" stop="20160710181600 +0300" channel="LTV1">
+    <title lang="lv">Sporta ziņas.</title>
+    <desc lang="lv">ar surdotulkojumu.(n)</desc>
+  </programme>
+  <programme start="20160710181600 +0300" stop="20160710182000 +0300" channel="LTV1">
+    <title lang="lv">Laika ziņas.</title>
+  </programme>
+  <programme start="20160710182000 +0300" stop="20160710185000 +0300" channel="LTV1">
+    <title lang="lv">Citādi latviskais (Cytaidi latviskais).</title>
+    <desc lang="lv">ar subtitriem.(n)</desc>
+  </programme>
+  <programme start="20160710185000 +0300" stop="20160710203000 +0300" channel="LTV1">
+    <title lang="lv">Uta Danella. Aprēķini debesīs. (atkārtojums)</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710203000 +0300" stop="20160710205400 +0300" channel="LTV1">
+    <title lang="lv">Panorāma.</title>
+  </programme>
+  <programme start="20160710205400 +0300" stop="20160710210300 +0300" channel="LTV1">
+    <title lang="lv">Sporta ziņas.</title>
+  </programme>
+  <programme start="20160710210300 +0300" stop="20160710211000 +0300" channel="LTV1">
+    <title lang="lv">Laika ziņas.</title>
+  </programme>
+  <programme start="20160710211000 +0300" stop="20160710221000 +0300" channel="LTV1">
+    <title lang="lv">Darelu ģimene. Piedzīvojumu seriāls. 3. sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710005000 +0300" stop="20160710014500 +0300" channel="LTV7">
+    <title lang="lv">Nemiera gars 5. Dokumentāla daudzsēriju filma.</title>
+  </programme>
+  <programme start="20160710014500 +0300" stop="20160710032000 +0300" channel="LTV7">
+    <title lang="lv">Donna Leona. Komisārs Gvido Bruneti. Detektīvseriāls.1.sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710032000 +0300" stop="20160710035500 +0300" channel="LTV7">
+    <title lang="lv">Kā apturēt globālo sasilšanu? Deutsche Welle žurnāls.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710035500 +0300" stop="20160710043000 +0300" channel="LTV7">
+    <title lang="lv">LTV - 60. Zelta arhīvs. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710043000 +0300" stop="20160710050000 +0300" channel="LTV7">
+    <title lang="lv">Vienā valodā. Dokumentāla filma.</title>
+  </programme>
+  <programme start="20160710050000 +0300" stop="20160710053000 +0300" channel="LTV7">
+    <title lang="lv">Automoto raidījums nr.2.Televeikala skatlogs. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710053000 +0300" stop="20160710060000 +0300" channel="LTV7">
+    <title lang="lv">Brīvdienu ceļvedis.Televeikala skatlogs. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710060000 +0300" stop="20160710060500 +0300" channel="LTV7">
+    <title lang="lv">Latvijas Republikas valsts himna.</title>
+  </programme>
+  <programme start="20160710060500 +0300" stop="20160710063500 +0300" channel="LTV7">
+    <title lang="lv">Kas te? Es te! (atkārtojums)</title>
+  </programme>
+  <programme start="20160710063500 +0300" stop="20160710070500 +0300" channel="LTV7">
+    <title lang="lv">Brīnumskapja skola. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710070500 +0300" stop="20160710074000 +0300" channel="LTV7">
+    <title lang="lv">Dardarija. Zeme, kurā viss ir iespējams. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710074000 +0300" stop="20160710080000 +0300" channel="LTV7">
+    <title lang="lv">Zebra. (atkārtojums)</title>
+    <desc lang="lv">ar subtitriem.(n)</desc>
+  </programme>
+  <programme start="20160710080000 +0300" stop="20160710083000 +0300" channel="LTV7">
+    <title lang="lv">Skats rītdienā. Televeikala skatlogs.</title>
+  </programme>
+  <programme start="20160710083000 +0300" stop="20160710090000 +0300" channel="LTV7">
+    <title lang="lv">Notikumu skatlogā. Televeikala skatlogs.</title>
+  </programme>
+  <programme start="20160710090000 +0300" stop="20160710093000 +0300" channel="LTV7">
+    <title lang="lv">Aktualitātes. Televeikala skatlogs.</title>
+  </programme>
+  <programme start="20160710093000 +0300" stop="20160710102000 +0300" channel="LTV7">
+    <title lang="lv">Šefpavārs līdzņemšanai 2. Kulinārijas šovs.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710102000 +0300" stop="20160710115500 +0300" channel="LTV7">
+    <title lang="lv">EČ Vieglatlētikā.</title>
+  </programme>
+  <programme start="20160710115500 +0300" stop="20160710135000 +0300" channel="LTV7">
+    <title lang="lv">UEFA Eiro 2016. Top 10 spēles. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710135000 +0300" stop="20160710145000 +0300" channel="LTV7">
+    <title lang="lv">Zoodārzu mazuļi. Daudzsēriju dokumentālā filma.5.un 6.sērija.</title>
+    <desc lang="lv">oriģinālvalodas izvēle.(n)</desc>
+  </programme>
+  <programme start="20160710145000 +0300" stop="20160710162000 +0300" channel="LTV7">
+    <title lang="lv">MUMINI. Komēta nāk! Animācijas filma.</title>
+  </programme>
+  <programme start="20160710162000 +0300" stop="20160710165000 +0300" channel="LTV7">
+    <title lang="lv">UEFA Eiro 2016 dienas apskats.</title>
+  </programme>
+  <programme start="20160710165000 +0300" stop="20160710175000 +0300" channel="LTV7">
+    <title lang="lv">Vakars ar Renāru Zeltiņu. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710175000 +0300" stop="20160710200500 +0300" channel="LTV7">
+    <title lang="lv">EČ Vieglatlētikā.</title>
+  </programme>
+  <programme start="20160710200500 +0300" stop="20160710204500 +0300" channel="LTV7">
+    <title lang="lv">Bezceļu tūrisms. Dokumentāls seriāls.3.sērija. (atkārtojums)</title>
+  </programme>
+  <programme start="20160710010000 +0300" stop="20160710030500 +0300" channel="TV3">
+    <title lang="lv">Skorpionu karalis: leģendas sākums</title>
+    <desc lang="lv">Būdams vēl bērns, Melno skorpionu vadoņa dēls Matajuss redz, kā nogalina viņa tēvu Ašeru – tautas varenāko kareivi.(n)</desc>
+  </programme>
+  <programme start="20160710030500 +0300" stop="20160710033000 +0300" channel="TV3">
+    <title lang="lv">Pēdējais īstais vīrs 4</title>
+    <desc lang="lv">Maiks ir tūrisma un sporta preču veikala mārketinga direktors. Viņam pašam patīk mesties piedzīvojumos, kad viņš dodas komandējumos.(n)</desc>
+  </programme>
+  <programme start="20160710033000 +0300" stop="20160710035500 +0300" channel="TV3">
+    <title lang="lv">Tētuka meitiņas 6</title>
+    <desc lang="lv">Noticis neticamais – īstu ekspertu attiecību lietās psihoterapeitu, kurš dod padomus laulātajiem pāriem krīzes situācijās, pametusi sieva. Vienu pašu ar piecām meitām!.(n)</desc>
+  </programme>
+  <programme start="20160710035500 +0300" stop="20160710042000 +0300" channel="TV3">
+    <title lang="lv">Tētuka meitiņas 6</title>
+    <desc lang="lv">Noticis neticamais – īstu ekspertu attiecību lietās psihoterapeitu, kurš dod padomus laulātajiem pāriem krīzes situācijās, pametusi sieva. Vienu pašu ar piecām meitām!.(n)</desc>
+  </programme>
+  <programme start="20160710042000 +0300" stop="20160710050000 +0300" channel="TV3">
+    <title lang="lv">Tv3 Ziņas</title>
+    <desc lang="lv">Katru vakaru plkst.19:00 kanālā TV3.(n)</desc>
+  </programme>
+  <programme start="20160710050000 +0300" stop="20160710052000 +0300" channel="TV3">
+    <title lang="lv">Tētuka meitiņas 6</title>
+    <desc lang="lv">Noticis neticamais – īstu ekspertu attiecību lietās psihoterapeitu, kurš dod padomus laulātajiem pāriem krīzes situācijās, pametusi sieva. Vienu pašu ar piecām meitām!.(n)</desc>
+  </programme>
+  <programme start="20160710052000 +0300" stop="20160710055000 +0300" channel="TV3">
+    <title lang="lv">Tētuka meitiņas 6</title>
+    <desc lang="lv">Noticis neticamais – īstu ekspertu attiecību lietās psihoterapeitu, kurš dod padomus laulātajiem pāriem krīzes situācijās, pametusi sieva. Vienu pašu ar piecām meitām!.(n)</desc>
+  </programme>
+  <programme start="20160710055000 +0300" stop="20160710065000 +0300" channel="TV3">
+    <title lang="lv">Elementāri, Vatson! 2</title>
+    <desc lang="lv">Mūsdienīga Šerloka Holmsa interpretācija, kura darbība notiek Ņujorkā, lai arī pat Šerloks Holms ir no Anglijas – reiz darbojies kā Skotlendjarda konsultants izmeklēšanas lietās.(n)</desc>
+  </programme>
+  <programme start="20160710065000 +0300" stop="20160710072000 +0300" channel="TV3">
+    <title lang="lv">Makss Stīls</title>
+    <desc lang="lv">Maksam ir pilnīgi jauna dzīve, kopš viņš pārvācies uz dzīvi pie mātes mazā pilsētiņā.(n)</desc>
+  </programme>
+  <programme start="20160710072000 +0300" stop="20160710075000 +0300" channel="TV3">
+    <title lang="lv">Mazo mīluļu veikaliņš 2</title>
+    <desc lang="lv">Maza meitene vārdā Blaita Bekstere pārvācas uz dzīvi pilsētas centrā, un viņas dzīvoklis atrodas tieši virs Mazā mīluļu veikaliņa.(n)</desc>
+  </programme>
+  <programme start="20160710075000 +0300" stop="20160710082000 +0300" channel="TV3">
+    <title lang="lv">Sofija Pirmā</title>
+    <desc lang="lv">Sofija ir vienkārša meitene, kas dzīvo ciematā kopā ar mammu. Viss mainās, kad viņas mamma apprecas ar karali Rolandu. Sofija pārvācas uz pili un kļūst par karaliskās ģimenes locekli – īstu princesi.(n)</desc>
+  </programme>
+  <programme start="20160710082000 +0300" stop="20160710084000 +0300" channel="TV3">
+    <title lang="lv">Kung fu panda 3</title>
+    <desc lang="lv">Kungfu panda ir stāsts par nebeidzamajiem pandas Po piedzīvojumiem – kā viņš trenējas, aizsargā, cīnās, mācās, māca, kļūdās, runā par daudz un neticamā kārtā kļūst par Miera ielejas varoni.(n)</desc>
+  </programme>
+  <programme start="20160710084000 +0300" stop="20160710091500 +0300" channel="TV3">
+    <title lang="lv">Māmiņu klubs</title>
+    <desc lang="lv">Raidījums jaunajām māmiņām!.(n)</desc>
+  </programme>
+  <programme start="20160710091500 +0300" stop="20160710092000 +0300" channel="TV3">
+    <title lang="lv">Iestādi savu nākotni!</title>
+  </programme>
+  <programme start="20160710092000 +0300" stop="20160710100000 +0300" channel="TV3">
+    <title lang="lv">Pirmizrāde! Gatavo 3 mežā 2</title>
+  </programme>
+  <programme start="20160710100000 +0300" stop="20160710110500 +0300" channel="TV3">
+    <title lang="lv">Superbingo</title>
+    <desc lang="lv">Loterijas SuperBingo TV šova skatītājus svētdienas rītos priecē vadītājas Ligita Mieze un Krista Pesecka, kā arī atraktīvais Armands Simsons.(n)</desc>
+  </programme>
+  <programme start="20160710110500 +0300" stop="20160710120000 +0300" channel="TV3">
+    <title lang="lv">Saimnieks meklē sievu 3</title>
+    <desc lang="lv">Visas vasaras garumā sievietes no visas Latvijas varēja saimniekiem iesūtīt vēstules. Nu laiks noskaidrot – kuri pieci dalībnieki saņēmuši visvairāk vēstuļu?.(n)</desc>
+  </programme>
+  <programme start="20160710120000 +0300" stop="20160710130500 +0300" channel="TV3">
+    <title lang="lv">Saimnieks meklē sievu 3</title>
+  </programme>
+  <programme start="20160710130500 +0300" stop="20160710133000 +0300" channel="TV3">
+    <title lang="lv">Amerikas smieklīgākie videokuriozi 23</title>
+    <desc lang="lv">Pasaulē ik dienu notiek daudz smieklīgu atgadījumu.(n)</desc>
+  </programme>
+  <programme start="20160710133000 +0300" stop="20160710153500 +0300" channel="TV3">
+    <title lang="lv">Pūķa sirds 3: Druīda lāsts</title>
+    <desc lang="lv">Brašais bruņinieks Garets dodas meklēt nokritušo komētu, kura, kā baumo, sastāv no zelta. Taču komētas vietā viņu gaida pārsteigums – pūķa olas, kuras apsargā pūķis Drago.(n)</desc>
+  </programme>
+  <programme start="20160710153500 +0300" stop="20160710172500 +0300" channel="TV3">
+    <title lang="lv">Doktors Dūlitls 2</title>
+    <desc lang="lv">Turpinājums stāstam par ārstu, kas prot sarunāties ar dzīvniekiem. Šoreiz Dūlitlam jādarbojas vides aizsardzības jomā – ar dzīvnieku streika palīdzību jāpasargā mežs no negodprātīgiem būvuzņēmējiem.(n)</desc>
+  </programme>
+  <programme start="20160710172500 +0300" stop="20160710190000 +0300" channel="TV3">
+    <title lang="lv">Gūfija brīvdienas</title>
+    <desc lang="lv">Ir pēdējā skolas diena, un Makss cer iegūt savas sapņu meitenes Roksanas uzmanību.(n)</desc>
+  </programme>
+  <programme start="20160710190000 +0300" stop="20160710191000 +0300" channel="TV3">
+    <title lang="lv">Tv3 Ziņas</title>
+    <desc lang="lv">Katru vakaru plkst.19:00 kanālā TV3.(n)</desc>
+  </programme>
+  <programme start="20160710191000 +0300" stop="20160710201000 +0300" channel="TV3">
+    <title lang="lv">Amerikāņu nindzjas 2</title>
+    <desc lang="lv">Izklaidējošs sporta raidījums, kurā dalībnieku uzdevums ir pārvarēt šķēršļu joslu pēc iespējas īsākā laikā. Sacīkstes notiek vairākos posmos.(n)</desc>
+  </programme>
+  <programme start="20160710201000 +0300" stop="20160710223500 +0300" channel="TV3">
+    <title lang="lv">Lara Krofta – kapeņu izlaupītāja. Dzīvības šūpulis</title>
+    <desc lang="lv">Šajā „Laras Kroftas – kapeņu izlaupītājas” turpinājumā Andželīna Džolī jau atkal iejutusies Lara Kroftas lomā. Šoreiz viņas uzdevums ir atrast Pandoras lādi. Vienā no lomām arī Džerards Batlers. 2003.(n)</desc>
+  </programme>
+  <programme start="20160710005000 +0300" stop="20160710024000 +0300" channel="LNT">
+    <title lang="lv">Labs gads</title>
+    <desc lang="lv">Britu mākleris manto sava krustēva namu un vīna dārzu Provansā, kur pavadījis lielu daļu bērnības. Cenšoties pārdot šo īpašumu, viņš atklāj, ka var dzīvot arī bezrūpīgi un mierīgi.(n)</desc>
+  </programme>
+  <programme start="20160710024000 +0300" stop="20160710040500 +0300" channel="LNT">
+    <title lang="lv">Kur zied ūdensrozes</title>
+  </programme>
+  <programme start="20160710040500 +0300" stop="20160710045000 +0300" channel="LNT">
+    <title lang="lv">Lnt brokastis</title>
+  </programme>
+  <programme start="20160710045000 +0300" stop="20160710045500 +0300" channel="LNT">
+    <title lang="lv">Bernards 2</title>
+    <desc lang="lv">Stāsts par polārlāci Bernardu, kura milzīgā ziņkārība sagādā viņam daudz piedzīvojumu un smieklīgu brīžu.(n)</desc>
+  </programme>
+  <programme start="20160710045500 +0300" stop="20160710050000 +0300" channel="LNT">
+    <title lang="lv">Bernards 2</title>
+    <desc lang="lv">Stāsts par polārlāci Bernardu, kura milzīgā ziņkārība sagādā viņam daudz piedzīvojumu un smieklīgu brīžu.(n)</desc>
+  </programme>
+  <programme start="20160710050000 +0300" stop="20160710054000 +0300" channel="LNT">
+    <title lang="lv">Amerikāņi 2</title>
+    <desc lang="lv">Aizraujošs stāsts par aukstā kara laiku starp PSRS un ASV, savstarpēju izspiegošanu un cilvēkiem, kas šo spiegošanu veic. (S2, Ep12).(n)</desc>
+  </programme>
+  <programme start="20160710054000 +0300" stop="20160710060000 +0300" channel="LNT">
+    <title lang="lv">Karamba!</title>
+  </programme>
+  <programme start="20160710060000 +0300" stop="20160710062000 +0300" channel="LNT">
+    <title lang="lv">Boba burgeri 4</title>
+    <desc lang="lv">Seriāla galvenais varonis ir Bobs. Viņam pieder neliela hamburgeru ēstuve – ģimenes uzņēmums. Viņa hamburgeri ir izcili garšīgi – daudz labāki nekā konkurentiem.(n)</desc>
+  </programme>
+  <programme start="20160710062000 +0300" stop="20160710070000 +0300" channel="LNT">
+    <title lang="lv">Čikāgas liesmās</title>
+    <desc lang="lv">Stāsts par Čikāgas ugunsdzēsēju un paramdeiķu brigādi – viņu ikdienu, izsaukumiem uz notikumu vietām, bīstamo un pašaizliedzīgo darbu, kā arī savstarpējām attiecībām. (S1, Ep23).(n)</desc>
+  </programme>
+  <programme start="20160710070000 +0300" stop="20160710080000 +0300" channel="LNT">
+    <title lang="lv">Ekstrasensi – detektīvi 3</title>
+    <desc lang="lv">Kad tradicionālās izmeklēšanas metodes nespēj sniegt atbildes, un process nonāk strupceļā, palīdzība tiek lūgta pat ekstrasensiem.(n)</desc>
+  </programme>
+  <programme start="20160710080000 +0300" stop="20160710083000 +0300" channel="LNT">
+    <title lang="lv">Jauniņā 4</title>
+    <desc lang="lv">Džesa meklēja jaunu mitekli un iepazinās ar trīs puišiem – brunču mednieku Šmitu, bārmeni Niku un sportisko Treneri.(n)</desc>
+  </programme>
+  <programme start="20160710083000 +0300" stop="20160710090000 +0300" channel="LNT">
+    <title lang="lv">Latvji, brauciet jūriņā! 4</title>
+  </programme>
+  <programme start="20160710090000 +0300" stop="20160710100000 +0300" channel="LNT">
+    <title lang="lv">Lnt brokastis</title>
+  </programme>
+  <programme start="20160710100000 +0300" stop="20160710105500 +0300" channel="LNT">
+    <title lang="lv">Nepiegādātās vēstules</title>
+    <desc lang="lv">Par spīti mūsdienu tehnoloģijām un elektroniskās saziņas iespējām, joprojām pasaulē ik dienu tiek nosūtītas miljoniem ar roku rakstītas vēstules.(n)</desc>
+  </programme>
+  <programme start="20160710105500 +0300" stop="20160710115500 +0300" channel="LNT">
+    <title lang="lv">Nepiegādātās vēstules</title>
+    <desc lang="lv">Par spīti mūsdienu tehnoloģijām un elektroniskās saziņas iespējām, joprojām pasaulē ik dienu tiek nosūtītas miljoniem ar roku rakstītas vēstules.(n)</desc>
+  </programme>
+  <programme start="20160710115500 +0300" stop="20160710125500 +0300" channel="LNT">
+    <title lang="lv">Bīsties - atvaļinājums!</title>
+  </programme>
+  <programme start="20160710125500 +0300" stop="20160710131500 +0300" channel="LNT">
+    <title lang="lv">Karamba!</title>
+  </programme>
+  <programme start="20160710131500 +0300" stop="20160710151500 +0300" channel="LNT">
+    <title lang="lv">Vāja sieviete</title>
+    <desc lang="lv">Ļusja ir prasmīga saimniece mājās, rūpīga mamma bērniem un priekšzīmīga sieva savam vīram.(n)</desc>
+  </programme>
+  <programme start="20160710151500 +0300" stop="20160710171500 +0300" channel="LNT">
+    <title lang="lv">Vāja sieviete</title>
+    <desc lang="lv">Ļusja ir prasmīga saimniece mājās, rūpīga mamma bērniem un priekšzīmīga sieva savam vīram.(n)</desc>
+  </programme>
+  <programme start="20160710171500 +0300" stop="20160710175000 +0300" channel="LNT">
+    <title lang="lv">Misija Rio</title>
+    <desc lang="lv">2016.gada vasarā vienā no lielākajām Brazīlijas pilsētām Riodeženeiro notiks četrgades vērienīgākais un gaidītākais sporta notikums – Vasaras Olimpiskās spēles.(n)</desc>
+  </programme>
+  <programme start="20160710175000 +0300" stop="20160710180000 +0300" channel="LNT">
+    <title lang="lv">Ziņas sešos</title>
+  </programme>
+  <programme start="20160710180000 +0300" stop="20160710200000 +0300" channel="LNT">
+    <title lang="lv">Jauno izpildītāju konkurss “Supermikrofons”</title>
+    <desc lang="lv">No 15. aprīļa līdz 15. maijam Latvijas lielākajās pilsētās norisinājās jauno izpildītāju konkurss SuperMikrofons, kuram atsaucās ap 150 dalībnieku.(n)</desc>
+  </programme>
+  <programme start="20160710200000 +0300" stop="20160710201000 +0300" channel="LNT">
+    <title lang="lv">Lnt Ziņas</title>
+    <desc lang="lv">LNT ziņu raidījumu panākumi ir skaidrojami ar žurnālistu profesionālo darbu, kuri gatavo jaunākās un aktuālākas ziņas no Latvijas un pasaules.(n)</desc>
+  </programme>
+  <programme start="20160710201000 +0300" stop="20160710211000 +0300" channel="LNT">
+    <title lang="lv">Latvijas faili. Aija Andrejeva</title>
+    <desc lang="lv">Aija Andrejeva ir unikāla balss tembra īpašniece, kuru ir iemīļojuši visā Latvijā.(n)</desc>
+  </programme>
+  <programme start="20160710211000 +0300" stop="20160710221000 +0300" channel="LNT">
+    <title lang="lv">Izdzīvotāji 30</title>
+    <desc lang="lv">Izdzīvotāji ir viens no pasaulē visilgāk dzīvojošiem šoviem, kura 30. sezona ir uzņemta saulainajā Nikaragvā, kas nozīmē, ka vasarai raksturīgas noskaņas garantētas!.(n)</desc>
+  </programme>
+  <programme start="20160710000000 +0300" stop="20160710010000 +0300" channel="TV6">
+    <title lang="lv">Melnais saraksts 2</title>
+    <desc lang="lv">Reimonds Redingtons jeb aģents Red ir bijušais valdības pārstāvis, bet šobrīd kļuvis par vienu no FIB meklētākajām personām. Red ir pazīstams kā noziedzīgu darījumu starpnieks jeb noziedzības sargs. (S2, Ep11).(n)</desc>
+  </programme>
+  <programme start="20160710010000 +0300" stop="20160710050000 +0300" channel="TV6">
+    <title lang="lv">Tv6 nakts mūzika</title>
+  </programme>
+  <programme start="20160710050000 +0300" stop="20160710091500 +0300" channel="TV6">
+    <title lang="lv">Tv6 nakts mūzika</title>
+  </programme>
+  <programme start="20160710091500 +0300" stop="20160710095000 +0300" channel="TV6">
+    <title lang="lv">Sliktie roboti</title>
+    <desc lang="lv">Slēptās kameras izjokošanas šovs, kurā nejauši cilvēki sastopas ar dažādām tehnoloģiskām ierīcēm, kas izgājušas no ierindas, dod dīvainas komandas vai vienkārši rīkojas radoši.(n)</desc>
+  </programme>
+  <programme start="20160710095000 +0300" stop="20160710102000 +0300" channel="TV6">
+    <title lang="lv">Sliktie roboti</title>
+    <desc lang="lv">Slēptās kameras izjokošanas šovs, kurā nejauši cilvēki sastopas ar dažādām tehnoloģiskām ierīcēm, kas izgājušas no ierindas, dod dīvainas komandas vai vienkārši rīkojas radoši.(n)</desc>
+  </programme>
+  <programme start="20160710102000 +0300" stop="20160710112000 +0300" channel="TV6">
+    <title lang="lv">Nozieguma skelets 9</title>
+    <desc lang="lv">„Nozieguma skeleta”  astotās sezonas noslēgumā Sīlijam Būtam nācās pakļauties maniaka Pelanta izvirzītajam ultimātam – vai nu Būts atsakās precēties ar Kauliņu. (S9, Ep13).(n)</desc>
+  </programme>
+  <programme start="20160710112000 +0300" stop="20160710115000 +0300" channel="TV6">
+    <title lang="lv">Piektais ātrums</title>
+    <desc lang="lv">Piektais ātrums ir britu auto šovs ar jaunākajām ziņām par auto pasauli ar ekspertu viedokļiem, praktiskiem un uzticamiem padomiem.(n)</desc>
+  </programme>
+  <programme start="20160710115000 +0300" stop="20160710122500 +0300" channel="TV6">
+    <title lang="lv">Piektais ātrums</title>
+    <desc lang="lv">Piektais ātrums ir britu auto šovs ar jaunākajām ziņām par auto pasauli ar ekspertu viedokļiem, praktiskiem un uzticamiem padomiem.(n)</desc>
+  </programme>
+  <programme start="20160710122500 +0300" stop="20160710130000 +0300" channel="TV6">
+    <title lang="lv">Piektais ātrums</title>
+  </programme>
+  <programme start="20160710130000 +0300" stop="20160710133000 +0300" channel="TV6">
+    <title lang="lv">Par puiku 2</title>
+    <desc lang="lv">Vilam Frīmanam dzīvē ir veicies. Viņš uzrakstīja hitu, kas nodrošina viņam pilnīgi bezrūpīgu atlikušo dzīvi – daudz brīva laika, sieviešu mīlestību un nekādu finansiālu uztraukumu. (S2, Ep6).(n)</desc>
+  </programme>
+  <programme start="20160710133000 +0300" stop="20160710140000 +0300" channel="TV6">
+    <title lang="lv">Par puiku 2</title>
+    <desc lang="lv">Vilam Frīmanam dzīvē ir veicies. Viņš uzrakstīja hitu, kas nodrošina viņam pilnīgi bezrūpīgu atlikušo dzīvi – daudz brīva laika, sieviešu mīlestību un nekādu finansiālu uztraukumu. (S2, Ep7).(n)</desc>
+  </programme>
+  <programme start="20160710140000 +0300" stop="20160710150500 +0300" channel="TV6">
+    <title lang="lv">Humora šovs "Comedy club"</title>
+  </programme>
+  <programme start="20160710150500 +0300" stop="20160710161000 +0300" channel="TV6">
+    <title lang="lv">Humora šovs "Comedy club"</title>
+  </programme>
+  <programme start="20160710161000 +0300" stop="20160710180500 +0300" channel="TV6">
+    <title lang="lv">Detektīvs Valanders</title>
+    <desc lang="lv">Filmas uzņemtas pēc zviedru autora Henninga Mankella romāniem un patiks īstu un nopietnu detektīvu cienītājiem.(n)</desc>
+  </programme>
+  <programme start="20160710180500 +0300" stop="20160710200000 +0300" channel="TV6">
+    <title lang="lv">Vissliktākais, kas var būt</title>
+    <desc lang="lv">Gan Kevins, gan Makss pārtiek no zagšanas. Kevins ir profesionāls zaglis, kas dievina dārgas lietas, bet miljardieris Makss Fērbenkss ir uzņēmējs, kas visu savu mantu ieguvis, apkrāpjot citus.(n)</desc>
+  </programme>
+  <programme start="20160710200000 +0300" stop="20160710210000 +0300" channel="TV6">
+    <title lang="lv">Bruklinas taksis</title>
+    <desc lang="lv">Ņujorkas policijas detektīve Keitlīna Salivana uz laiku tiek atstādināta no nozieguma izmeklēšanas un paliek bez autovadītājas apliecības.(n)</desc>
+  </programme>
+  <programme start="20160710210000 +0300" stop="20160710234000 +0300" channel="TV6">
+    <title lang="lv">F1: Lielbritānijas Gp</title>
+  </programme>
+  <programme start="20160710002500 +0300" stop="20160710012500 +0300" channel="Kanāls 2">
+    <title lang="lv">Dauntonas abatija 4</title>
+    <desc lang="lv">Ir pagājuši seši mēneši kopš Metjū nāves. Mērija ir iegrimusi sērās, un ģimene un kalpotāji mēģina viņai palīdzēt sadzīvot ar to, ka Metjū vairs nav un audzināt viņa dēlu vienai.(n)</desc>
+  </programme>
+  <programme start="20160710012500 +0300" stop="20160710050000 +0300" channel="Kanāls 2">
+    <title lang="lv">Kanāls 2 mūzika</title>
+  </programme>
+  <programme start="20160710050000 +0300" stop="20160710084000 +0300" channel="Kanāls 2">
+    <title lang="lv">Kanāls 2 mūzika</title>
+  </programme>
+  <programme start="20160710084000 +0300" stop="20160710091000 +0300" channel="Kanāls 2">
+    <title lang="lv">Madagaskaras pingvīni</title>
+    <desc lang="lv">Ja esi redzējis slaveno animācijas filmu „Madagaskara”, zini, kādi pingvīni ir.(n)</desc>
+  </programme>
+  <programme start="20160710091000 +0300" stop="20160710093000 +0300" channel="Kanāls 2">
+    <title lang="lv">Madagaskaras pingvīni</title>
+    <desc lang="lv">Ja esi redzējis slaveno animācijas filmu „Madagaskara”, zini, kādi pingvīni ir.(n)</desc>
+  </programme>
+  <programme start="20160710093000 +0300" stop="20160710100000 +0300" channel="Kanāls 2">
+    <title lang="lv">Būt par papucīti 4</title>
+    <desc lang="lv">Džimijam bija vienas nakts romāns, un astoņus mēnešus pēc tam viņš kļuva par tēvu. Bet tagad viņam ir jāuzņemas arī rūpes par mazuli, jo bērna mātei tiek piespriests nāves sods.(n)</desc>
+  </programme>
+  <programme start="20160710100000 +0300" stop="20160710103000 +0300" channel="Kanāls 2">
+    <title lang="lv">Ēd un tievē</title>
+    <desc lang="lv">Ar liekā svara problēmām saskaras daudzi, un katrs ar tām cīnās kā māk – ievēro diētas, nodarbojas ar sportu, pat dzer īpašas tabletes.(n)</desc>
+  </programme>
+  <programme start="20160710103000 +0300" stop="20160710110000 +0300" channel="Kanāls 2">
+    <title lang="lv">Ēd un tievē</title>
+    <desc lang="lv">Ar liekā svara problēmām saskaras daudzi, un katrs ar tām cīnās kā māk – ievēro diētas, nodarbojas ar sportu, pat dzer īpašas tabletes.(n)</desc>
+  </programme>
+  <programme start="20160710110000 +0300" stop="20160710120000 +0300" channel="Kanāls 2">
+    <title lang="lv">Ēnu spēles</title>
+    <desc lang="lv">Jaunās Latvijas detektīvfilmas notikumu centrā ir divi galvenie varoņi – detektīvaģentūras līdzīpašnieki un partneri – Roberts Meirāns un Gabriela Ozoliņa.(n)</desc>
+  </programme>
+  <programme start="20160710120000 +0300" stop="20160710141500 +0300" channel="Kanāls 2">
+    <title lang="lv">Brīvdienu terapija</title>
+  </programme>
+  <programme start="20160710141500 +0300" stop="20160710162000 +0300" channel="Kanāls 2">
+    <title lang="lv">Dejas 2</title>
+  </programme>
+  <programme start="20160710162000 +0300" stop="20160710172500 +0300" channel="Kanāls 2">
+    <title lang="lv">Līgavu kari 1</title>
+    <desc lang="lv">Kad noteikts kāzu dienas datums, atliek tikai viens – gatavoties šai lielajai dienai! Katrai līgavai un līgavainim ir savi sapņi par to, kāda tieši izskatīsies šī diena un kas tajā notiks.(n)</desc>
+  </programme>
+  <programme start="20160710172500 +0300" stop="20160710182500 +0300" channel="Kanāls 2">
+    <title lang="lv">Līgavu kari 1</title>
+    <desc lang="lv">Kad noteikts kāzu dienas datums, atliek tikai viens – gatavoties šai lielajai dienai! Katrai līgavai un līgavainim ir savi sapņi par to, kāda tieši izskatīsies šī diena un kas tajā notiks.(n)</desc>
+  </programme>
+  <programme start="20160710182500 +0300" stop="20160710203000 +0300" channel="Kanāls 2">
+    <title lang="lv">Dejas ar viļņiem</title>
+    <desc lang="lv">Annu Mariju interesē tikai sērfošana. Katru dienu viņa ceļas jau pirms rītausmas, lai iekarotu viļņus, un skaita dienas līdz sērfošanas sacensībām. 2002.(n)</desc>
+  </programme>
+  <programme start="20160710203000 +0300" stop="20160710210000 +0300" channel="Kanāls 2">
+    <title lang="lv">Meittenes 4</title>
+    <desc lang="lv">Maskava – pilsēta, kas kļūs par liktenīgas satikšanās vietu četrām ļoti atšķirīgām meitenēm. Maša ir naiva sapņotāja, kurai dzīvē īpaši neveicas.(n)</desc>
+  </programme>
+  <programme start="20160710210000 +0300" stop="20160710213000 +0300" channel="Kanāls 2">
+    <title lang="lv">Meittenes 4</title>
+    <desc lang="lv">Maskava – pilsēta, kas kļūs par liktenīgas satikšanās vietu četrām ļoti atšķirīgām meitenēm. Maša ir naiva sapņotāja, kurai dzīvē īpaši neveicas.(n)</desc>
+  </programme>
+  <programme start="20160710213000 +0300" stop="20160710220000 +0300" channel="Kanāls 2">
+    <title lang="lv">Meittenes 4</title>
+    <desc lang="lv">Maskava – pilsēta, kas kļūs par liktenīgas satikšanās vietu četrām ļoti atšķirīgām meitenēm. Maša ir naiva sapņotāja, kurai dzīvē īpaši neveicas.(n)</desc>
+  </programme>
+  <programme start="20160710220000 +0300" stop="20160710225500 +0300" channel="Kanāls 2">
+    <title lang="lv">Viņi atgriežas 2</title>
+    <desc lang="lv">Seriāls seko nelielas pilsētiņas Arkādijas, Misūri štatā iedzīvotāju dzīvei. Pilsētā pēkšņi viss sagriežas kājām gaišā, kad viens aiz otra tajā atgriežas reiz mirušie tās iedzīvotāji.(n)</desc>
+  </programme>
+  <programme start="20160710225500 +0300" stop="20160710235000 +0300" channel="Kanāls 2">
+    <title lang="lv">Viņi atgriežas 2</title>
+    <desc lang="lv">Seriāls seko nelielas pilsētiņas Arkādijas, Misūri štatā iedzīvotāju dzīvei. Pilsētā pēkšņi viss sagriežas kājām gaišā, kad viens aiz otra tajā atgriežas reiz mirušie tās iedzīvotāji.(n)</desc>
+  </programme>
+  <programme start="20160710005000 +0300" stop="20160710021000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Квн". Премьер-лига</title>
+  </programme>
+  <programme start="20160710021000 +0300" stop="20160710024000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Euronews". Информационная программа</title>
+  </programme>
+  <programme start="20160710024000 +0300" stop="20160710040000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Високосный Год". Комедия</title>
+  </programme>
+  <programme start="20160710040000 +0300" stop="20160710041000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Смешное видео"</title>
+  </programme>
+  <programme start="20160710041000 +0300" stop="20160710053000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Юморина". Фестиваль юмора (с субт. на лат. яз.)</title>
+  </programme>
+  <programme start="20160710053000 +0300" stop="20160710054000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Смешное видео"</title>
+  </programme>
+  <programme start="20160710054000 +0300" stop="20160710061000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Euronews". Информационная программа</title>
+  </programme>
+  <programme start="20160710061000 +0300" stop="20160710062000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Новости"</title>
+  </programme>
+  <programme start="20160710062000 +0300" stop="20160710070000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Играй, гармонь любимая!"</title>
+  </programme>
+  <programme start="20160710070000 +0300" stop="20160710075500 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Идеальный ремонт"</title>
+  </programme>
+  <programme start="20160710075500 +0300" stop="20160710081000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">Детский клуб: Мультфильмы</title>
+  </programme>
+  <programme start="20160710081000 +0300" stop="20160710083000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">Детский клуб: "Смешарики. Пин-код"</title>
+  </programme>
+  <programme start="20160710083000 +0300" stop="20160710094000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Здоровье"</title>
+  </programme>
+  <programme start="20160710094000 +0300" stop="20160710100000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Непутевые заметки"</title>
+  </programme>
+  <programme start="20160710100000 +0300" stop="20160710102000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Новости" (с субтитрами)</title>
+  </programme>
+  <programme start="20160710102000 +0300" stop="20160710110500 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">Детский клуб: Мультфильмы</title>
+  </programme>
+  <programme start="20160710110500 +0300" stop="20160710120000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Пока все дома"</title>
+  </programme>
+  <programme start="20160710120000 +0300" stop="20160710123500 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">Премьера. "Дачные феи"</title>
+  </programme>
+  <programme start="20160710123500 +0300" stop="20160710125500 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Новости" (с субтитрами)</title>
+  </programme>
+  <programme start="20160710125500 +0300" stop="20160710133000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Фазенда"</title>
+  </programme>
+  <programme start="20160710133000 +0300" stop="20160710144500 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Что? Где? Когда?"</title>
+  </programme>
+  <programme start="20160710144500 +0300" stop="20160710152000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">Премьера. "Маршрут построен"</title>
+  </programme>
+  <programme start="20160710152000 +0300" stop="20160710170500 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">К 80-летию Госавтоинспекции. Праздничный концерт</title>
+  </programme>
+  <programme start="20160710170500 +0300" stop="20160710210000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">"Практика". Сериал. Заключительные серии</title>
+  </programme>
+  <programme start="20160710210000 +0300" stop="20160710220000 +0300" channel="Pirmais Baltijas Kanāls">
+    <title lang="lv">Воскресное "Время". Информационно-аналитическая программа</title>
+  </programme>
+</tv>
