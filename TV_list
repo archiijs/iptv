@@ -13,7 +13,7 @@ http://streamltv.cloudy.services/ltv/_definst_/LTV02.smil/chunklist_b1197800.m3u
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.stream/chunklist.m3u8
 #EXTINF:0,TV6 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream4_medium.stream/playlist.m3u8
-#EXTINF:0,LTV7 Latvia (360p)
+#EXTINF:0, tvg-id="LTV1" tvg-name="LTV7" group-title="Latvijas kanāli",LTV7 Latvia (360p)
 http://streamltv.cloudy.services/ltv/_definst_/LTV01.smil/chunklist_b1197800.m3u8
 #EXTINF:0,LNT (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream1_high.stream/chunklist.m3u8
