@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+tvg-id="" tvg-logo="" tvg-name="" group-title="",
 #EXTINF:-1,[COLOR yellow] [B] Latvijas kanali [/B][/COLOR]
 http://0.1.5.0:1224
 
@@ -27,23 +27,23 @@ http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:mtgstream4.smil/
 http://0.1.5.0:1224
 
 
-#EXTINF:0,1st Baltic Music (576p)
+#EXTINF:0, tvg-id="Pirmais Baltijas mūzikas kanāls" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/perviy_baltiysky_kanal_ru.png" tvg-name="Pirmais Baltijas mūzikas kanāls (576p)" group-title="Mūzikas kanāli",Pirmais Baltijas mūzikas kanāls (576p)
 https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
-#EXTINF:0,MTV Rus (578p)
+#EXTINF:0, tvg-id="MTV Europe" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_us.png" tvg-name="MTV Rus (578p)" group-title="Mūzikas kanāli",MTV Rus (578p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
-#EXTINF:0,MTV Live (1080p)
+#EXTINF:0,tvg-id="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_live_hd_us.png" tvg-name="MTV Live HD (1080p)" group-title="Mūzikas kanāli",MTV Live HD (1080p)
 http://62.106.105.209:4022/udp/232.0.2.51:1234
-#EXTINF:0,MTV Dance (576p)
+#EXTINF:0, tvg-id="MTV Dance" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_dance_us.png" tvg-name="MTV Dance (576p)" group-title="Mūzikas kanāli",MTV Dance (576p)
 http://fr.cdn.edem.tv/iptv/4MGFKP9WS85VM3/558/index.m3u8
-#EXTINF:0,MTV Hits (576p)
+#EXTINF:0, tvg-id="MTV Hits" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_hits_ce.png" tvg-name="MTV Hits (576p)" group-title="Mūzikas kanāli",MTV Hits (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/153/index.m3u8
-#EXTINF:0,Muz TV (576p)
+#EXTINF:0, tvg-id="Muz TV Baltija" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/muztv.png" tvg-name="Muz TV (576p)" group-title="Mūzikas kanāli",Muz TV (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/116/index.m3u8
-#EXTINF:0,Vevo 1 (720p)
+#EXTINF:0, tvg-id="VevoTV1" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/vevo.png" tvg-name="Vevo 1 (720p)" group-title="Mūzikas kanāli",Vevo 1 (720p)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:0,Vevo 2 (720p)
+#EXTINF:0, tvg-id="VevoTV2" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/vevo.png" tvg-name="Vevo 2 (720p)" group-title="Mūzikas kanāli",Vevo 2 (720p)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:0,Vevo 3 (720p)
+#EXTINF:0, tvg-id="VevoTV3" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/vevo.png" tvg-name="Vevo 3 (720p)" group-title="Mūzikas kanāli",Vevo 3 (720p)
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:0,SLAM! (720p)
 http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
