@@ -15,11 +15,11 @@ http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream4_medium.str
 http://streamltv.cloudy.services/ltv/_definst_/LTV01.smil/chunklist_b1197800.m3u8
 #EXTINF:0, tvg-id="LNT" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/lnt_lv.png" tvg-name="LNT (576p)" group-title="Latvijas kanāli",LNT (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream1_high.stream/chunklist.m3u8
-#EXTINF:0, tvg-id="Chaula_TV" tvg-logo="Logo N/A" tvg-name="Chaula TV (480p)" group-title="Latvijas kanāli",Chaula TV (480p)
+#EXTINF:0, tvg-id="Chaula_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/chaula.png" tvg-name="Chaula TV (480p)" group-title="Latvijas kanāli",Chaula TV (480p)
 http://video.chaula.tv/hls/live/medium/playlist_medium.m3u8
-#EXTINF:0, tvg-id="SWH_T" tvg-logo="Logo N/A" tvg-name="SWH Video Tiesraide (360p)" group-title="Latvijas kanāli",SWH Video Tiesraide (360p)
+#EXTINF:0, tvg-id="SWH_T" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/swh_logo_gaiss_fons.png" tvg-name="SWH Video Tiesraide (360p)" group-title="Latvijas kanāli",SWH Video Tiesraide (360p)
 http://stream.ls.lv/swh_swh/smil:swh_swh.smil/chunklist_w1007479244_b2000000_t64SGlnaCBxdWFsaXR5.m3u8
-#EXTINF:0,tvg-id="LMT_S" tvg-logo="Logo N/A" tvg-name="LMT Straume (576p)" group-title="Latvijas kanāli",LMT Straume (576p)
+#EXTINF:0,tvg-id="LMT_S" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/LMT.png" tvg-name="LMT Straume (576p)" group-title="Latvijas kanāli",LMT Straume (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:mtgstream4.smil/playlist.m3u8
 
 
