@@ -34,7 +34,7 @@ http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
 #EXTINF:0,tvg-id="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_live_hd_us.png" tvg-name="MTV Live HD (1080p)" group-title="Mūzikas kanāli",MTV Live HD (1080p)
 http://62.106.105.209:4022/udp/232.0.2.51:1234
 #EXTINF:0, tvg-id="MTV Dance" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_dance_us.png" tvg-name="MTV Dance (576p)" group-title="Mūzikas kanāli",MTV Dance (576p)
-http://fr.cdn.edem.tv/iptv/4MGFKP9WS85VM3/558/index.m3u8
+http://151.80.115.8:8080/live/y9wBLcRW6q/CdlIe5ToDI/2.m3u8
 #EXTINF:0, tvg-id="MTV Hits" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_hits_ce.png" tvg-name="MTV Hits (576p)" group-title="Mūzikas kanāli",MTV Hits (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/153/index.m3u8
 #EXTINF:0, tvg-id="Muz TV Baltija" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/muztv.png" tvg-name="Muz TV (576p)" group-title="Mūzikas kanāli",Muz TV (576p)
