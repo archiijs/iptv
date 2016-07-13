@@ -71,8 +71,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0, tvg-id="NR1" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/nr1tv.png" tvg-name="NR1 (270p)" group-title="Mūzikas kanāli",NR1 (270p)
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
-#EXTINF:-1, tvg-id="MIAMI_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/miamitv.png" tvg-name="MIAMI TV (720p)" group-title="Mūzikas kanāli",MIAMI TV (720p)
-mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
 #EXTINF:-1, tvg-id="Music Box" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/MusicBoxtv.png" tvg-name="Music Box (360p)" group-title="Mūzikas kanāli",Music Box (360p)
 http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:0, tvg-id="ONE BY HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/ONEbytv.png" tvg-name="ONE BY HD (1080p)" group-title="Mūzikas kanāli",ONE BY HD (1080p)
@@ -97,8 +95,6 @@ http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
 #EXTINF:-1, tvg-id="Mad TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/madtv.png" tvg-name="Mad TV (480p)" group-title="Mūzikas kanāli",Mad TV (480p)
 rtmp://144.76.2.213:1935/live/livestream
-#EXTINF:-1, tvg-id="1st Classic" tvg-logo="" tvg-name="1st Classic (578p)" group-title="Mūzikas kanāli",1st Classic (578p)
-http://151.249.207.217:4022/udp/224.200.246.47:3527
 #EXTINF:-1, tvg-id="МУЗ" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/muztv.png" tvg-name="МУЗ (720p)" group-title="Mūzikas kanāli",МУЗ (720p)
 http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/116/inde..
 
@@ -121,14 +117,6 @@ http://0.1.5.0:1224
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0,Russia Today Documentary (360p)
 http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-#EXTINF:0, Animal Planet (480p)
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0,Travel Ch. (480p)
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:0,SHO HD (720p)
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0,Discovery ID. (480p)
-http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0,Discovery Rus (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
 
