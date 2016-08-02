@@ -12,7 +12,7 @@ http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.str
 #EXTINF:0, tvg-id="TV6" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/viasat_tv6_lv.png" tvg-name="TV6 Latvia (576p)" group-title="Latvijas kanāli",TV6 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream4_medium.stream/playlist.m3u8
 #EXTINF:0, tvg-id="LTV7" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/latvia7.png" tvg-name="LTV7 (720p)" group-title="Latvijas kanāli",LTV7 Latvia (360p)
-http://streamltv.cloudy.services/ltv/_definst_/LTV01.smil/media_b2764000_90754.ts
+http://streamltv.cloudy.services/ltv/_definst_/LTV01.smil/chunklist_b1197800.m3u8
 #EXTINF:0, tvg-id="LNT" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/lnt_lv.png" tvg-name="LNT (576p)" group-title="Latvijas kanāli",LNT (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream1_high.stream/chunklist.m3u8
 #EXTINF:0, tvg-id="Chaula_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/chaula.png" tvg-name="Chaula TV (480p)" group-title="Latvijas kanāli",Chaula TV (480p)
