@@ -29,7 +29,11 @@ http://0.1.5.0:1224
 
 #EXTINF:0, tvg-id="Pirmais Baltijas mūzikas kanāls" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/perviy_baltiysky_kanal_ru.png" tvg-name="Pirmais Baltijas mūzikas kanāls (576p)" group-title="Mūzikas kanāli",Pirmais Baltijas mūzikas kanāls (576p)
 https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
+<<<<<<< HEAD
 #EXTINF:0, tvg-id="MTV Europe" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_us.png" tvg-name="MTV Rus (578p)" group-title="Mūzikas kanāli",MTV Rus (578p)
+=======
+#EXTINF:0,MTV Rus (578p)
+>>>>>>> refs/heads/Testing-Branch
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
 #EXTINF:0,tvg-id="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_live_hd_us.png" tvg-name="MTV Live HD (1080p)" group-title="Mūzikas kanāli",MTV Live HD (1080p)
 http://62.106.105.209:4022/udp/232.0.2.51:1234
@@ -117,16 +121,48 @@ http://0.1.5.0:1224
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:0,Russia Today Documentary (360p)
 http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
+<<<<<<< HEAD
+=======
+#EXTINF:0, Animal Planet (480p)
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0,Travel Ch. (480p)
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0,SHO HD (720p)
+http://80.80.160.168/live/7/live.m3u8
+>>>>>>> refs/heads/Testing-Branch
 #EXTINF:0,Discovery Rus (576p)
 http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
+<<<<<<< HEAD
+=======
+#EXTINF:0,Discovery SCI. (720p)
+http://80.80.160.168/live/9/live.m3u8
+
+
+#EXTINF:0,LV-LTV1 (576p) (Ar programmu?)
+http://dvb.gpsystems.lv:4242/bynumber/1?by_HasBahCa
+#EXTINF:0,LV-LTV1 (576p) (Ar programmu?)
+http://hop.02.lv/1Dh
+#EXTINF:0,LV-LTV1 (576p) (Ar programmu un valodas celiņiem)
+http://94.101.225.32:4242/bynumber/1?/
+#EXTINF:0,LV-LTV1 (576p) (Ar programmu un valodas celiņiem)
+http://94.101.225.32:4242/bysid/5110?/
+#EXTINF:0,LTV7 Latvia (Ar programmu)
+http://dvb.gpsystems.lv:4242/bynumber/3?by_HasBahCa
+#EXTINF:-1,Adazi (576p) (Ar programmu?)
+http://dvb.gpsystems.lv:4242/bynumber/1
+#EXTINF:-1,ReTV (576p?) (Ar programmu?)
+http://dvb.gpsystems.lv:4242/bynumber/2
+#EXTINF:-1,RIGA24 (576p?) (Ar programmu)
+http://94.101.225.32:4242/bynumber/4?/
+#EXTINF:-1,LTV7
+http://dvb.gpsystems.lv:4242/bynumber/3
+
+>>>>>>> refs/heads/Testing-Branch
 
 
 #EXTINF:-1,[COLOR red] [B]Adult[/B][/COLOR]
 http://0.1.5.0:1224
 
-
-#EXTINF:0,Русская ночь
-http://37.195.247.86:81/udp/239.1.6.32:1234
 
 #EXTINF:0,Искушение
 http://178.57.9.126:1234/udp/224.244.244.97:19993
@@ -149,9 +185,6 @@ http://5.189.199.20:4022/udp/239.255.4.5:1234
 
 #EXTINF:0,+18 Hot
 http://globiptv.com:8000/live/cardsharing/yg4tdh/2007.ts
-
-#EXTINF:0,+18 Hot
-
 
 
 
