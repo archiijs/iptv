@@ -1,0 +1,58 @@
+group,Latvijas kanāli
+ltv1-lat,LTV1 (576p),http://dvb.gpsystems.lv:4242/bynumber/1?by_HasBahCa
+tv3-lt,TV3 Latvia (576p),http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.stream/chunklist.m3u8
+tv6-lat,TV6 Latvia (576p),http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream4_medium.stream/playlist.m3u8
+ltv7-lat,LTV7 Latvia (360p),http://dvb.gpsystems.lv:4242/bynumber/3?by_HasBahCa
+lnt-lat,LNT (576p),http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream1_high.stream/chunklist.m3u8
+ext,Chaula TV (480p),http://video.chaula.tv/hls/live/medium/playlist_medium.m3u8
+ext,SWH Video Tiesraide (360p),http://stream.ls.lv/swh_swh/smil:swh_swh.smil/chunklist_w1007479244_b2000000_t64SGlnaCBxdWFsaXR5.m3u8
+ext,LMT Straume (576p),http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:mtgstream4.smil/playlist.m3u8
+group,Mūzikas kanāli
+1tv-lat,Pirmais Baltijas mūzikas kanāls (576p),https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
+mtvlive-hd,MTV Live HD (1080p),http://62.106.105.209:4022/udp/232.0.2.51:1234
+mtv-dance,MTV Dance (576p),http://151.80.115.8:8080/live/y9wBLcRW6q/CdlIe5ToDI/2.m3u8
+mtv-hits,MTV Hits (576p),http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/153/index.m3u8
+mtv-rocks,MTV Rock (576p),http://cp.dmbshare.net:8000/live/khe/khe/6839.ts
+ext,Muz TV (576p),http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/116/index.m3u8
+vevo,Vevo 1 (720p),http://51.255.70.112:8000/live/wayne/wayne/786.ts
+vevo,Vevo 2 (720p),http://51.255.70.112:8000/live/wayne/wayne/787.ts
+vevo,Vevo 3 (720p),http://51.255.70.112:8000/live/wayne/wayne/788.ts
+SLAM!TV.nl,SLAM! (720p),http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
+Jugoton.hr,JUGOTON TV (432p),http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
+ext,Heart TV (450p),http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+KissTV.uk,Kiss Tv (380p),rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live/live
+NRJHits.fr,NRJ TV (1080p),rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+NRJHits.fr,NRJ Hits Belgique (360p),rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+ext,M20 (360p),http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+MusicChannel.hu,Music Channel Hungary (720p),http://stream.1music.hu/stream/1music.m3u8
+nano,DANCE HD (720p),rtmp://91.201.78.3:1935/live/dancehd
+ext,POP HD (720p),rtmp://91.201.78.3:1935/live/pophd
+CapitalTV.uk,Capital TV (432p),http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+PoloTV.pl,POLO TV Music (360p),rtmp://stream.smcloud.net:1935/live/polotv
+ext,NR1 (270p),rtmp://mn-l.mncdn.com:1935/birnumaramedya_live/nr1tv.sdp
+mbu,Music Box (360p),http://212.26.132.86/hls/mb_ua.m3u8
+1hdru,ONE BY HD (1080p),http://rtmp.one.by:1300
+ext,ONE BY 2HD (1080p),http://rtmp.one.by:2300
+ext,Djing Ibiza HD (720p),http://www.djing.com/tv/d-05.m3u8
+ext,Djing Underground HD (720p),http://www.djing.com/tv/u-05.m3u8
+ext,Djing Classic HD (720p),http://www.djing.com/tv/i-05.m3u8
+ext,Virgin TV (272p),rtmp://fms.105.net:1935/live/virgin2
+ext,ELECTROSOUND TV (720p),http://www.electrosound.tv:1935/public/stream/chunklist.m3u8
+RTL.de,RTL 102.5 TV (360p),http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+dotdance,Dot Dance (720p),http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
+4Music.uk,For Music (480p),http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
+MADTV.gr,Mad TV (480p),rtmp://144.76.2.213:1935/live/livestream
+MADTV.gr,Mad TV (480p),tvg-id="" tvg-logo="" tvg-name="" group-title="",
+group,Ziņas
+euro-en,EURONEWS (240p),rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+ABCNews.al,ABC News (360p),http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+group,Citi kanāli
+NASATV.us,Nasa TV (720p),http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+AnimalPlanet.blt,Animal Planet (480p),http://80.80.160.168/live/1/live.m3u8
+TravelChannel.blt,Travel Ch. (480p),http://80.80.160.168/live/3/live.m3u8
+ext,SHO HD (720p),http://80.80.160.168/live/7/live.m3u8
+Discovery.blt,Discovery Rus (576p),http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
+DiscoverySci.mx,Discovery SCI. (720p),http://80.80.160.168/live/9/live.m3u8
+Discovery.blt,Discovery (576p),http://51.255.70.112:8000/live/wayne/wayne/741.ts
+BBC2.uk,BBC Two HD (1080p),http://51.255.70.112:8000/live/wayne/wayne/1478.ts
+Channel4.uk,Channel 4 (576p),http://51.255.70.112:8000/live/wayne/wayne/763.ts
